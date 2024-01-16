@@ -19,7 +19,3 @@
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=azamatdevv&icon=5&color=11)](https://visitcount.itsvg.in)
-
